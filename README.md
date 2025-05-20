@@ -72,7 +72,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184913](https://github.com/user-attachments/assets/aa444865-3760-43e8-b8c7-89de17dfcb38)
+![image](https://github.com/user-attachments/assets/43dea8c9-59ed-4c15-a978-6f8ba735dd83)
+
 
 
 <br>
@@ -83,7 +84,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184931](https://github.com/user-attachments/assets/79ff88cf-b182-4a4a-854b-954b7031dee6)
+![image](https://github.com/user-attachments/assets/12182218-6f4f-41cd-847d-3ee8c79bb183)
+
 
 <br>
 <br>
@@ -93,7 +95,8 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 
-![Screenshot 2025-05-19 184944](https://github.com/user-attachments/assets/01864c8c-9382-42e1-b3fa-f9a9888f8344)
+![image](https://github.com/user-attachments/assets/3f734aa0-1a6b-4ab0-94b6-5854614d4af5)
+
 
 <br>
 <br>
